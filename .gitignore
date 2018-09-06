@@ -1,0 +1,5 @@
+tools/smplify_public
+tools/smpl
+tools/binvox
+training/models/t7
+*.py[cod]
